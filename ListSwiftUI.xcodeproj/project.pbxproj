@@ -11,6 +11,8 @@
 		4C8F463F299154CC00BA93F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F463E299154CC00BA93F4 /* ContentView.swift */; };
 		4C8F4641299154CD00BA93F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C8F4640299154CD00BA93F4 /* Assets.xcassets */; };
 		4C8F4644299154CD00BA93F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C8F4643299154CD00BA93F4 /* Preview Assets.xcassets */; };
+		4C8F464B299154FA00BA93F4 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F464A299154FA00BA93F4 /* ItemCell.swift */; };
+		4C8F464D2991566100BA93F4 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8F464C2991566100BA93F4 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		4C8F463E299154CC00BA93F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4C8F4640299154CD00BA93F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C8F4643299154CD00BA93F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4C8F464A299154FA00BA93F4 /* ItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
+		4C8F464C2991566100BA93F4 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				4C8F463C299154CC00BA93F4 /* ListSwiftUIApp.swift */,
 				4C8F463E299154CC00BA93F4 /* ContentView.swift */,
+				4C8F464C2991566100BA93F4 /* Model.swift */,
+				4C8F464A299154FA00BA93F4 /* ItemCell.swift */,
 				4C8F4640299154CD00BA93F4 /* Assets.xcassets */,
 				4C8F4642299154CD00BA93F4 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				4C8F463F299154CC00BA93F4 /* ContentView.swift in Sources */,
 				4C8F463D299154CC00BA93F4 /* ListSwiftUIApp.swift in Sources */,
+				4C8F464B299154FA00BA93F4 /* ItemCell.swift in Sources */,
+				4C8F464D2991566100BA93F4 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
